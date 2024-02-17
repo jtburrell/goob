@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Goob",
+  "avatar": "haaeeYAaIiiIQGaaa",
+  "preferredColor": "violet",
+  "language": "python.3",
+  "game": "table-tennis",
+  "run": "python3 -u ./main.py"
+}
